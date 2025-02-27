@@ -1,4 +1,4 @@
 # fraud_pattern
-David Schiess,
-Fabio Kost,
+David Schiess\
+Fabio Kost\
 Noa Flückiger
