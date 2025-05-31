@@ -1,9 +1,3 @@
----
-layout: post
-title: "Fraud Detection - Between Textbook and Reality"
-author: Noa Flückiger, Fabio Kost, David Schiess
----
-
 # Fraud Detection - Between Textbook and Reality
 
 ## Machine Learning Project Lifecycle
